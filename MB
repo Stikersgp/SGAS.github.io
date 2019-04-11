@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<a href="https://oauth.vk.com/authorize?client_id=5490057&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=friends&response_type=token&v=5.52">Разрешить</a>
+<form name="test" method="post" action="input1.php">
+  <p><b>Ваше имя:</b><br>
+   <input type="text" size="40">
+  </p>
+</body>
+</html>
